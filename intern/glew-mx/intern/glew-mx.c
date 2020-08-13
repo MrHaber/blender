@@ -17,10 +17,6 @@
  * All rights reserved.
  */
 
-/** \file
- * \ingroup glew-mx
- */
-
 #include "glew-mx.h"
 
 #include <stdio.h>
